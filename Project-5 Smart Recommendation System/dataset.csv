@@ -1,0 +1,51 @@
+ID,Title,Genre,Language,Category,Rating
+1,Interstellar,Sci-Fi,English,Movie,9.0
+2,Inception,Sci-Fi,English,Movie,8.8
+3,The Martian,Sci-Fi,English,Movie,8.0
+4,Gravity,Sci-Fi,English,Movie,7.7
+5,Arrival,Sci-Fi,English,Movie,8.1
+6,Ad Astra,Sci-Fi,English,Movie,6.5
+7,The Batman,Action,English,Movie,8.1
+8,John Wick,Action,English,Movie,8.2
+9,Mad Max Fury Road,Action,English,Movie,8.1
+10,Mission Impossible Fallout,Action,English,Movie,8.3
+11,Avengers Endgame,Action,English,Movie,8.4
+12,Iron Man,Action,English,Movie,7.9
+13,The Shawshank Redemption,Drama,English,Movie,9.3
+14,Forrest Gump,Drama,English,Movie,8.8
+15,Fight Club,Drama,English,Movie,8.8
+16,The Godfather,Crime,English,Movie,9.2
+17,Joker,Crime,English,Movie,8.4
+18,Parasite,Thriller,Korean,Movie,8.6
+19,Your Name,Romance,Japanese,Movie,8.4
+20,Spirited Away,Fantasy,Japanese,Movie,8.6
+21,Naruto,Adventure,Japanese,Anime,8.7
+22,Naruto Shippuden,Adventure,Japanese,Anime,8.9
+23,One Piece,Adventure,Japanese,Anime,9.0
+24,Bleach,Adventure,Japanese,Anime,8.2
+25,Attack on Titan,Action,Japanese,Anime,9.1
+26,Demon Slayer,Action,Japanese,Anime,8.7
+27,Jujutsu Kaisen,Action,Japanese,Anime,8.6
+28,Death Note,Thriller,Japanese,Anime,9.0
+29,Fullmetal Alchemist Brotherhood,Fantasy,Japanese,Anime,9.1
+30,Dragon Ball Z,Action,Japanese,Anime,8.8
+31,Breaking Bad,Crime,English,Series,9.5
+32,Better Call Saul,Crime,English,Series,9.1
+33,Stranger Things,Sci-Fi,English,Series,8.7
+34,Dark,Sci-Fi,German,Series,8.8
+35,Friends,Comedy,English,Series,8.9
+36,The Office,Comedy,English,Series,8.8
+37,Sherlock,Mystery,English,Series,9.1
+38,Money Heist,Crime,Spanish,Series,8.2
+39,The Witcher,Fantasy,English,Series,8.0
+40,Game of Thrones,Fantasy,English,Series,9.2
+41,Atomic Habits,Self Help,English,Book,9.3
+42,The Psychology of Money,Finance,English,Book,9.2
+43,Rich Dad Poor Dad,Finance,English,Book,8.8
+44,The Power of Your Subconscious Mind,Self Help,English,Book,8.7
+45,Deep Work,Productivity,English,Book,8.9
+46,Clean Code,Programming,English,Book,9.1
+47,Python Crash Course,Programming,English,Book,8.8
+48,Minecraft,Sandbox,English,Game,9.0
+49,GTA V,Action,English,Game,9.2
+50,The Legend of Zelda Breath of the Wild,Adventure,English,Game,9.5
